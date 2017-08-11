@@ -31,9 +31,7 @@
  # 자료구조
  
  > stack
-  - 제공.
  > singly linked list
-  - 구현.
  > doubly linked list
   - 구현중...
  > queue
