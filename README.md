@@ -34,5 +34,7 @@
 - 내용
 >linked list
 - 내용2
+>doubly linked list
+- 내용3
  <hr />
 
