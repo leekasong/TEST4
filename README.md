@@ -24,3 +24,25 @@
 
 > test
 > * test
+
+ workspace - 재사용하기 위한 기능별 코드 분류
+ ==========================================
+ 
+ # 자료구조
+ 
+ > stack
+  - 제공.
+ > singly linked list
+  - 구현.
+ > doubly linked list
+  - 구현중...
+ > queue
+  - 구현중...
+ > heap
+  - 구현중...
+ > Binary Tree
+  - 구현중...
+ > B-Tree
+  - 구현중...
+ <hr />
+
