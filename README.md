@@ -9,5 +9,5 @@
     + blue
       + blue
 - yellow
-   -yellow
-      -yellow
+   - yellow
+      - yellow
