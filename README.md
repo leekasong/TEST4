@@ -31,6 +31,8 @@
  # 자료구조
  
 >stack <br>
+- 내용
 >linked list
+- 내용2
  <hr />
 
