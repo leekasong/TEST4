@@ -30,7 +30,7 @@
  
  # 자료구조
  
-> stack
-> linked list
+>stack
+>linked list
  <hr />
 
