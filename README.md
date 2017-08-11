@@ -6,4 +6,8 @@
   * red
      * red
 + blue
++ blue
++ blue
 - yellow
+ -yellow
+ -yellow
