@@ -30,7 +30,7 @@
  
  # 자료구조
  
->stack
+>stack <br>
 >linked list
  <hr />
 
