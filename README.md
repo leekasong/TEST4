@@ -28,23 +28,7 @@
  workspace - 재사용하기 위한 기능별 코드 분류
  ==========================================
  
- # 자료구조
- 
-<hr/><<br>
-- 내용
->linked list
-- 내용2
->doubly linked list
-- 내용3
->doubly linked list
-- 내용4
- > queue
-  - 구현중...
- > heap
-  - 구현중...
- > Binary Tree
-  - 구현중...
- > B-Tree
-  - 구현중...
- <hr />
-
+# 자료구조
+자료구조다.
+<hr/>
+# 자료구조2
